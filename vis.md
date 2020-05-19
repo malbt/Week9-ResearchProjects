@@ -18,7 +18,7 @@ You choices are:
 - Seaborn
 
 (all of these really cool)<br>
-#Bokeh <br>
+***Bokeh***<br>
 __Bokeh__ is an interactive visualization library that targets modern web browsers for presentation. Bokeh is a tool in the Charting Libraries category of a tech stack. It is good for:<br>
 - Interactive visualization<br>
 - Standalone HTML documents, or server-backed apps<br>
